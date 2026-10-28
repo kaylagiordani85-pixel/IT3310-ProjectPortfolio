@@ -1,20 +1,38 @@
 # User Persona and Product Vision: RCHN Patient Intake and Scheduling System
+
 **Consultant:** Kayla Giordani
+
 **Role:** Associate Consultant, Product Manager, NovaTech Consulting
+
 **Engagement:** Riverside Community Health Network (RCHN)
+
 **Date:** September 16, 2026
+
 ---
 ## User Persona
-**Name:** Jewels 
-**Role:** Intake Coordinator 
-**Years in Role:** 1-3 
-**Tech Comfort Level:** Medium comfort level
+
+**Name:**
+Jewels 
+
+**Role:** 
+Intake Coordinator 
+
+**Years in Role:** 
+1-3 
+
+**Tech Comfort Level:**
+Medium comfort level
+
 ---
 ### Primary Work Goal
+
 Jewels is trying to ensure that patients are seen in a timely and orderly fashion.
+
 ---
 ### Main Frustration with the Current System
+
 The documented finding that interferes with Jewel’s workflow is that the current system requires too many screens to complete a single patient registration. This creates an overflow of patients and disrupts her workflow.
+
 ---
 ### What Would Make Their Work Better
 Having a system that does not require a long intake process would make their work better by allowing them to complete patient registrations more efficiently. Reducing the number of screens needed to complete a registration would also create a smoother workflow and help prevent an overflow of patients.
